@@ -14,13 +14,18 @@
 ## The data: 
 
 ●	The data provided for the task 2700 rows of arabic tweets labeled pos/neg/neu
+
 We split this data to 80/20 for training and testing 
 
-●	I used more data to enrich our data for getting better results
+●I used more data to enrich our data for getting better results
+
 ○	ArSaS http://lrec-conf.org/workshops/lrec2018/W30/pdf/22_W30.pdf
-■	This data is nearly 20k rows and by dropping the Mixed label we get around 18k rows
+
+		■This data is nearly 20k rows and by dropping the Mixed label we get around 18k rows
+		
 ○	ASTD https://github.com/mahmoudnabil/ASTD.git
-■	This dataset contains an Objective label and by dropping it we get NEG 1642  / NEUTRAL 805 / POS  777 around 2200l row
+
+		■This dataset contains an Objective label and by dropping it we get NEG 1642  / NEUTRAL 805 / POS  777 around 2200l row
 
 ## The tools:
 
